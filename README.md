@@ -1,2 +1,2 @@
 # LATTENT
-f..ing around w latent spaces on models like vae, vqvae: Semantics on text, audio & images . &amp; more. study n training  purpose
+f..ing around w latent spaces on autoencode models like vae, vqvae: semantics on text, audio & images. for study n training  purpose
